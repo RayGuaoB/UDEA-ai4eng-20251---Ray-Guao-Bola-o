@@ -8,3 +8,5 @@ Programa academico:[504] INGENIERÍA DE SISTEMAS
 Nombre:Cristian David Rodriguez Osorio
 Cedula: 1020106312
 Programa academico:[504] INGENIERÍA DE SISTEMAS
+
+Video de entrega #1: https://youtu.be/98EJSIS-kSI
